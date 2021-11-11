@@ -1,0 +1,2 @@
+# replicaGlobal
+globalsystem
